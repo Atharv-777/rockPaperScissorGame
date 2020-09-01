@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background: brown;
+}
+#start{
+    border-radius: 5px;
+    padding: 15px;
+}
+#heading{
+    font-weight: bold;
+    font-size: 30px;
+}
+#container{
+    height: 400px;
+    width: 500px;
+    background: rgb(100, 76, 209);
+    display: inline-block;
+    padding: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1.5px solid black;
+}
+p{
+    margin: 20px;
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#lives{
+    display: inline-flex;
+    font-weight: bold;
+    font-size: 70px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+}
