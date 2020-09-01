@@ -11,7 +11,7 @@ body{
     font-size: 30px;
 }
 #container{
-    height: 400px;
+    height: 500px;
     width: 500px;
     background: rgb(100, 76, 209);
     display: inline-block;
